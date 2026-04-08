@@ -1,4 +1,4 @@
-# PDF Toolkit 🗂️
+# Advanced-PDF-Document-Utility-Offline-Edition 🗂️
 
 > A fully offline, browser-based PDF & document utility. No uploads. No server. No data leaves your machine.
 
