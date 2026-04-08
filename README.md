@@ -173,7 +173,7 @@ Please read [SECURITY.md](SECURITY.md) before reporting vulnerabilities.
 
 **Rajath Channasetty**
 - LinkedIn: [@rajath-channasetty](https://linkedin.com/in/rajath-channasetty)
-- GitHub: [@YOUR-USERNAME](https://github.com/rajathchannasetty-sys)
+- GitHub: [@rajathchannasetty-sys](https://github.com/rajathchannasetty-sys)
 
 ---
 
