@@ -2,7 +2,7 @@
 
 > A fully offline, browser-based PDF & document utility. No uploads. No server. No data leaves your machine.
 
-**🔗 Live Demo:** `https://YOUR-USERNAME.github.io/pdf-toolkit/`
+**🔗 Live Demo:** `https://github.com/rajathchannasetty-sys/Advanced-PDF-Document-Utility-Offline-Edition`
 
 ---
 
@@ -58,7 +58,7 @@ No build tools. No frameworks. No npm. Pure HTML + CSS + JavaScript.
 ## 📁 Project Structure
 
 ```
-pdf-toolkit/
+Advanced-PDF-Document-Utility-Offline-Edition/
 ├── index.html          # The entire app (single file)
 ├── README.md           # This file
 ├── LICENSE             # MIT License
@@ -78,16 +78,16 @@ No installation required. Just open `index.html` in your browser:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/pdf-toolkit.git
+git clone https://github.com/rajathchannasetty-sys/Advanced-PDF-Document-Utility-Offline-Edition.git
 
 # Open in browser (macOS)
-open pdf-toolkit/index.html
+open Advanced-PDF-Document-Utility-Offline-Edition/index.html
 
 # Open in browser (Windows)
-start pdf-toolkit/index.html
+start Advanced-PDF-Document-Utility-Offline-Edition/index.html
 
 # Open in browser (Linux)
-xdg-open pdf-toolkit/index.html
+xdg-open Advanced-PDF-Document-Utility-Offline-Edition/index.html
 ```
 
 Or serve it locally with Python (for development):
