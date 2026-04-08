@@ -1,8 +1,8 @@
-# Advanced-PDF-Document-Utility-Offline-Edition 🗂️
+# Advanced-PDF-Document-Utility 🗂️
 
 > A fully offline, browser-based PDF & document utility. No uploads. No server. No data leaves your machine.
 
-**🔗 Live Demo:** `https://rajathchannasetty-sys.github.io/Advanced-PDF-Document-Utility-Offline-Edition/`
+**🔗 Live Demo:** `https://rajathchannasetty-sys.github.io/Advanced-PDF-Document-Utility/`
 
 ---
 
@@ -43,7 +43,7 @@ There are **two ways** to use this tool — pick whichever suits you:
  
 Just click the link and it opens in your browser:
  
-**👉 [https://rajathchannasetty-sys.github.io/Advanced-PDF-Document-Utility-Offline-Edition/](https://rajathchannasetty-sys.github.io/Advanced-PDF-Document-Utility-Offline-Edition/)**
+**👉 [https://rajathchannasetty-sys.github.io/Advanced-PDF-Document-Utility/](https://rajathchannasetty-sys.github.io/Advanced-PDF-Document-Utility/)**
  
 Works in Chrome, Edge, Firefox, and Safari. No login, no sign-up.
  
@@ -98,7 +98,7 @@ No build tools. No frameworks. No npm. Pure HTML + CSS + JavaScript.
 ## 📁 Project Structure
 
 ```
-Advanced-PDF-Document-Utility-Offline-Edition/
+Advanced-PDF-Document-Utility/
 ├── index.html          # The entire app (single file)
 ├── README.md           # This file
 ├── LICENSE             # MIT License
@@ -118,16 +118,16 @@ No installation required. Just open `index.html` in your browser:
 
 ```bash
 # Clone the repo
-git clone https://github.com/rajathchannasetty-sys/Advanced-PDF-Document-Utility-Offline-Edition.git
+git clone https://github.com/rajathchannasetty-sys/Advanced-PDF-Document-Utility.git
 
 # Open in browser (macOS)
-open Advanced-PDF-Document-Utility-Offline-Edition/index.html
+open Advanced-PDF-Document-Utility/index.html
 
 # Open in browser (Windows)
-start Advanced-PDF-Document-Utility-Offline-Edition/index.html
+start Advanced-PDF-Document-Utility/index.html
 
 # Open in browser (Linux)
-xdg-open Advanced-PDF-Document-Utility-Offline-Edition/index.html
+xdg-open Advanced-PDF-Document-Utility/index.html
 ```
 
 Or serve it locally with Python (for development):
